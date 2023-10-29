@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @YigitDeniiz
-- 👀 I’m interested in machhine learning and data science so ı want to share my progress in here like a blog!
+- 👀 I’m interested in machhine learning and data science so ı want to share my progress in here in future time!
 - 🌱 I’m currently learning data science
 - 📫 You can reach me with my personal mail --> yigitdeniz7.17@gmail.com
 
